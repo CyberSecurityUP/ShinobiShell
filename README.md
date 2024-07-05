@@ -20,7 +20,7 @@ ShinobiShell is a simple tool for automated shellcode generation using MSFVenom 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/ShinobiShell.git
+   git clone https://github.com/CyberSecurityUP/ShinobiShell.git
    cd ShinobiShell
    ```
 
